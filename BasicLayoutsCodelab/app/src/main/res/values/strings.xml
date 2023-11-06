@@ -12,21 +12,23 @@
   the License.
   -->
 <resources>
-    <string name="app_name">MySoothe</string>
-    <string name="favorite_collections">Favorite Collections</string>
-    <string name="align_your_body">Align your Body</string>
-    <string name="ab1_inversions">Inversions</string>
-    <string name="ab2_quick_yoga">Quick yoga</string>
-    <string name="ab3_stretching">Stretching</string>
-    <string name="ab4_tabata">Tabata</string>
-    <string name="ab5_hiit">HIIT</string>
-    <string name="ab6_pre_natal_yoga">Pre-natal yoga</string>
-    <string name="fc1_short_mantras">Short mantras</string>
-    <string name="fc2_nature_meditations">Nature meditations</string>
-    <string name="fc3_stress_and_anxiety">Stress and anxiety</string>
-    <string name="fc4_self_massage">Self massage</string>
-    <string name="fc5_overwhelmed">Overwhelmed</string>
-    <string name="fc6_nightly_wind_down">Nightly wind down</string>
+    <string name="app_name">Dark Souls</string>
+    <string name="DLC_Games">DLC´s Games</string>
+    <string name="the_Best_Games_Souls">The Best Games Souls</string>
+    <string name="Demons_Souls">Demon´s Souls</string>
+    <string name="Dark_Souls">Dark Souls</string>
+    <string name="Dark_Souls_2">Dark Souls II</string>
+    <string name="Dark_Souls_3">Dark Souls III</string>
+    <string name="Bloodborne">Bloodborne</string>
+    <string name="Elden_Ring">Elden Ring</string>
+    <string name="Sekiro">Sekiro</string>
+    <string name="Lies_of_P">Lies of P</string>
+    <string name="DS3_the_Ringed_City">DS3: The Ringed City</string>
+    <string name="DS3_Ashes_of_Ariandel">DS3: Ashes of Ariandel</string>
+    <string name="BB_the_Old_Hunters">BB: The Old Hunters</string>
+    <string name="DS_Artorias_of_the_Abyss">DS: Artorias of the Abyss</string>
+    <string name="DS2_Scholar_of_the_First_Sin">DS2: Scholar of the First Sin</string>
+    <string name="Dark_Souls_REMASTERED">Dark Souls REMASTERED</string>
     <string name="cd_fab_start">start</string>
     <string name="bottom_navigation_home">Home</string>
     <string name="bottom_navigation_profile">Profile</string>
